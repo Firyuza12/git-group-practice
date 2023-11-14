@@ -5,6 +5,10 @@ public class Login {
 
         System.out.println("Login successfully");
 
+        System.out.println("Enter user name");
+
+        System.out.println("Enter password");
+
 
     }
 }
